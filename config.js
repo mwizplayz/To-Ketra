@@ -53,12 +53,12 @@ window.VALENTINE_CONFIG = {
     {
       "title": "Ice Cream",
       "emoji": "🍦",
-      "subtitle": "Always works"
+      "subtitle": "I know its one of your favs"
     },
     {
       "title": "Chocolate",
       "emoji": "🍫",
-      "subtitle": "Romantic even tho you don't like it 😂"
+      "subtitle": "Romantic even tho you don't like it...you weirdo 😂"
     },
     {
       "title": "Short Bread Biscuits",
@@ -66,8 +66,8 @@ window.VALENTINE_CONFIG = {
       "subtitle": "Crispy + sweet"
     },
     {
-      "title": "Cake",
-      "emoji": "🎂",
+      "title": "Yogurt",
+      "emoji": "🥛",
       "subtitle": "Celebration"
     }
   ],
